@@ -1,9 +1,29 @@
-# IMC-Calculator-ReactNative
+<h2>               IMC-Calculator-ReactNative </h2>
  ###App que calcula o IMC(indice de massa corporal) feito com React Native
  
 ![IMC ReactNative](https://user-images.githubusercontent.com/105875989/201987639-437856c5-a5d1-4cb0-bc69-c758aba761ea.gif)
 
 <br>
+
+## 📝 Descrição:
+
+Projeto para práticar useState no React Native, calcúla o indice de massa corporal(IMC) e exibi para o usuário se ele está magro, no peso ideal, acima do peso...
+
+## 🚀 Tecnologias usadas:
+
+<div style='display:inline_block;'>
+  <img align='center' alt='ReactNative' src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>  
+  <img align='center' alt='Typescript' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'/>
+  <img align='center' alt='CSS3' src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'/> 
+</div>
+
+## 😉 Entre em contato comigo:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-nunes-esbaltar/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nunesesbaltar.luan02@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luan_nunees/)
+
+## Imagens do projeto
 
 ![1](https://user-images.githubusercontent.com/105875989/201987690-f8047ed3-9db4-4c67-bf82-c16868623083.png)
 
@@ -15,3 +35,6 @@
 
 ![3](https://user-images.githubusercontent.com/105875989/201987703-6ca37064-7c74-41cb-bc25-ffbd2483327b.png)
 
+## Autor:
+
+![Luan](https://user-images.githubusercontent.com/105875989/202718585-cfe22775-97f3-45f9-9dfa-035b7982148d.jpeg)
