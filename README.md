@@ -38,5 +38,5 @@ Projeto para práticar useState no React Native, calcúla o indice de massa corp
 ## Autor:
 
 <img align='center' style="width:100px; height: 100px;" alt='Luan' src='https://user-images.githubusercontent.com/105875989/202720555-79b37083-a2e8-47d6-8d43-5003323b22ff.jpeg'/>  
-
+## Luan Nunes
 
