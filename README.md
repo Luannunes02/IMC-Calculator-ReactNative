@@ -1,5 +1,5 @@
-<h2>               IMC-Calculator-ReactNative </h2>
- ###App que calcula o IMC(indice de massa corporal) feito com React Native
+<h1>               IMC-Calculator-ReactNative </h1>
+ <h2>App que calcula o IMC(indice de massa corporal) feito com React Native </h2>
  
 ![IMC ReactNative](https://user-images.githubusercontent.com/105875989/201987639-437856c5-a5d1-4cb0-bc69-c758aba761ea.gif)
 
