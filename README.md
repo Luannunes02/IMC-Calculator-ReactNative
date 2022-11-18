@@ -6,7 +6,7 @@
 <br>
 <br>
 ## 📝 Descrição:
-
+<br>
 Projeto para práticar useState no React Native, calcúla o indice de massa corporal(IMC) e exibi para o usuário se ele está magro, no peso ideal, acima do peso...
 <br>
 <br>
