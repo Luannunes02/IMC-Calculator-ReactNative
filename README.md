@@ -3,7 +3,7 @@
 ![IMC ReactNative](https://user-images.githubusercontent.com/105875989/201987639-437856c5-a5d1-4cb0-bc69-c758aba761ea.gif)
 
 <br>
-
+<br>
 ## 📝 Descrição:
 
 Projeto para práticar useState no React Native, calcúla o indice de massa corporal(IMC) e exibi para o usuário se ele está magro, no peso ideal, acima do peso...
